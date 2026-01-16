@@ -133,3 +133,6 @@ function send(data) {
 ## 📄 Licencia
 
 * MIT License
+
+## Capturas
+<img width="540" height="1140" alt="imagen" src="https://github.com/user-attachments/assets/20395c43-6b84-4b2b-892a-c12d1abeeabb" />
