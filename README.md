@@ -136,9 +136,5 @@ function send(data) {
 
 ## Capturas en proyecto de prueba
 <img width="540" height="1140" alt="imagen" src="https://github.com/user-attachments/assets/20395c43-6b84-4b2b-892a-c12d1abeeabb" />
-
-
 <img width="540" height="1140" alt="imagen" src="https://github.com/user-attachments/assets/01b860a5-c498-43d1-8daa-becc5a23f7b0" />
-
-
-<img width="540" height="1140" alt="imagen" src="https://github.com/user-attachments/assets/a92f40d9-7c17-41f9-b821-410f330d4453" />
+<img width="540" height="1140" alt="imagen" src="https://github.com/user-attachments/assets/28642893-33e5-4082-a8b9-b11fa32b4865" />
