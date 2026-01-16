@@ -130,6 +130,6 @@ function send(data) {
 * <b>MSc. Educación Tecnológica</b>
 * <b>Ingeniero de Software</b>
 
-📄 Licencia
+## 📄 Licencia
 
-MIT License
+* MIT License
