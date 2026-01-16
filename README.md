@@ -54,11 +54,13 @@ El objetivo es emular un puerto serial accesible vía WebSocket local, mantenien
 * Se abre el puerto serial
 * El loop de lectura permanece activo
 * Los datos fluyen:
-- USB → WebSocket
-- WebSocket → USB
+    - USB → WebSocket
+    - WebSocket → USB
+
 * La conexión solo se pierde si:
-- Se desconecta el USB
-- Se cierra explícitamente la app
+    - Se desconecta el USB
+    - Se cierra explícitamente la app
+
 
 ## 📦 Requisitos
 
